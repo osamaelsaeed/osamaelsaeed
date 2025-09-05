@@ -11,8 +11,8 @@
 
 - 📫 **How to reach me**  
   * 📱 Phone: +20 1092358383  
-  * 📧 Email: osamaelsaeed599@gmail.com  
-  * 🌐 LinkedIn: [linkedin.com/in/osama-elsaeed](https://www.linkedin.com/in/osama-elsaeed)  
+  * 📧 Email: om35453@gmail.com  
+  * 🌐 LinkedIn: [https://www.linkedin.com/in/osama-elsaeed](https://www.linkedin.com/in/osama-elsaeed-19462427a/)
   * 🐙 GitHub: [github.com/osamaelsaeed](https://github.com/osamaelsaeed)
 
 ---
