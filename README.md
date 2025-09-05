@@ -4,12 +4,11 @@
   </a>
 </h1>
 
-- 👀 I’m interested in **Software Engineering** and **Competitive Programming**  
-- 🎓 I’m a **Computer Engineering Graduate**  
-- 💡 I’m passionate about **building scalable back-end systems** and **exploring new technologies**  
-- 🌍 A bit about me:  
-  - Always ready to learn any technology related to **Software Engineering**  
-  - Motivated to take on **new challenges** and **continuous learning**  
+🎓 I’m a **Senior Computer Science & Engineering Student** at the **German University in Cairo (GUC)**  
+🌱 Currently expanding my expertise in **Full-Stack Development** and **DevOps** practices  
+💡 Passionate about designing and building **scalable, efficient, and reliable applications**  
+🤝 Always eager to **collaborate on innovative projects**, share knowledge, and explore cutting-edge technologies  
+🚀 Motivated by continuous learning and turning complex problems into impactful solutions  
 
 - 📫 **How to reach me**  
   * 📱 Phone: +20 1092358383  
