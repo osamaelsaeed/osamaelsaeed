@@ -106,8 +106,14 @@
 </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>  
+</a>
+    <img src="https://cdn.simpleicons.org/sentry" width="40" height="40" alt="Sentry"/>
+  <img src="https://cdn.simpleicons.org/clerk" width="40" height="40" alt="Clerk"/>
 </p>
+
+
+
+
 
 
   <img src="https://komarev.com/ghpvc/?username=osamaelsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="osama-elsaeed" /> 
